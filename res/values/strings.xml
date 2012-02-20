@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HelloTabView_AdvancedActivity!</string>
+    <string name="app_name">HelloTabView_Advanced</string>
+
+    <string name="column_one">Column #1</string>
+    <string name="column_two">Column #2</string>
+    <string name="column_three">Column #3</string>
+    
+    <string name="row_one">Row #1</string>
+    <string name="row_two">Row #2</string>
+    <string name="row_three">Row #3</string>
+    <string name="row_four">Row #4</string>
+    
+    <string-array name="countries_array">
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Cuba</item>
+        <item>Indonesia</item>
+        <item>Jamaica</item>
+        <item>Kongo</item>
+        <item>Laos</item>
+    </string-array>
+
+</resources>
